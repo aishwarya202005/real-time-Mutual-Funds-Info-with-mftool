@@ -65,6 +65,7 @@ Total schemes found: 14245
 
 ### Visual Trend Graph
 The execution will initialize an interactive window displaying a configured timeline graph looking similar to this:
+<img width="1000" height="500" alt="DSP_Stock_performance_graph" src="https://github.com/user-attachments/assets/c578ce1d-5741-4736-8677-4708f23eaf1b" />
 
 ---
 
